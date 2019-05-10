@@ -11,5 +11,6 @@ def line(customer_list)
 end
 
 def take_a_number(array,new_person)
-  array.
+  array << new_person
+  puts "#{array.index"
 end
