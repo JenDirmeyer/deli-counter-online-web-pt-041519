@@ -10,3 +10,6 @@ def line(customer_list)
   end
 end
 
+def take_a_number(array,new_person)
+  
+end
