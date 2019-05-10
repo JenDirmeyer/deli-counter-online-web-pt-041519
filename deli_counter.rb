@@ -1,3 +1,4 @@
+require 'pry'
 def line(customer_list)
   line_list = "The line is currently:"
   if customer_list.length == 0 
