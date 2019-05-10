@@ -12,5 +12,5 @@ end
 
 def take_a_number(array,new_person)
   array << new_person
-  puts "#{array.index"
+  puts "#{array.index(new_person)+ 1}. #{new_person}"
 end
