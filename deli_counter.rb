@@ -11,5 +11,5 @@ def line(customer_list)
 end
 
 def take_a_number(array,new_person)
-  
+  puts 
 end
