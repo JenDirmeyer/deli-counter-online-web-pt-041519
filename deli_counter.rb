@@ -3,6 +3,7 @@ def line(customer_list)
     "The line is currently empty."
   else
     customer_list.each.with_index do |customer, i|
+    end  
   end
 end
 
