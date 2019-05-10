@@ -6,6 +6,7 @@ def line(customer_list)
     customer_list.each.with_index do |customer, i|
       line_list << " #{i + 1}. #{customer}"
     end  
+    puts line_list
   end
 end
 
